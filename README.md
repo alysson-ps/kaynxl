@@ -1,8 +1,6 @@
 # Alisson Santos 
 
-Developer Full Stack.
-
-[![Twitter Badge](https://img.shields.io/badge/-@dev.alysson-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/dieegosf)](https://twitter.com/dieegosf) 
+Developer Full Stack. 
 [![Gmail Badge](https://img.shields.io/badge/-dev.alysson@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.alysson@gmail.com)](mailto:dev.alysson@gmail.com)
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=khausxl&show_icons=true&theme=gotham" alt='alisson santos' /></p>
