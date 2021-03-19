@@ -4,8 +4,8 @@ Developer Full Stack.
 
 [![Gmail Badge](https://img.shields.io/badge/-dev.alysson@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.alysson@gmail.com)](mailto:dev.alysson@gmail.com)
 
-![userStats](https://github-readme-stats.vercel.app/api?username=alysson3dev&include_all_commits=true&show_icons=true&theme=dracula&line_height=40)
-![topsLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson3dev&theme=dracula)
+![userStats](https://github-readme-stats.vercel.app/api?username=alysson3dev&include_all_commits=true&show_icons=true&theme=tokyonight&line_height=40)
+![topsLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=alysson3dev&theme=tokyonight)
 
 Enthusiast of the best web & mobile development technologies.
 
