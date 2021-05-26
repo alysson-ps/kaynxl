@@ -10,3 +10,12 @@ Developer Full Stack.
 Enthusiast of the best web & mobile development technologies.
 
 "You will need to spend hours and hours every day, for at least 10 years. If you do that you will be one of the best at something. But the only way to get something done for hours and hours is if you find something you are really interested in doing!"
+
+**Languages and tools:**
+
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
+<img align="left" height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/python.png">
+<img height="30" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/linux.png">
